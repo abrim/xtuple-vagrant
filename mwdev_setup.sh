@@ -7,7 +7,7 @@ fi
 
 PROG=`basename $0`
 XTUPLE_DIR=/home/vagrant/dev/xtuple/
-PGVER=9.3
+PGVER=9.6
 QTVER=5
 
 cdir() {
