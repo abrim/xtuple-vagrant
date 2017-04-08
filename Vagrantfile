@@ -7,7 +7,7 @@
 #   then edit xtHostOffset, xtHostAddr, xtHostName, xtHostSetupFile, xtVMName in xtlocal.rb
 xtHostOffset    = 0
 
-xtBox           = "ubuntu/trusty64"
+xtBox           = "ubuntu/xenial64"
 xtBoxUrl        = nil
 xtForwardX11    = true
 xtGuestAppPort  = 8443
